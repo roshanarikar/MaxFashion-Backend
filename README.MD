@@ -32,9 +32,7 @@ This is a follow up project of unit 3 project.In unit 3 we were focus on fronten
 
 ## Demo
 
-Video Demo Link:-
+Github repo link:-  https://github.com/roshanarikar/MaxFashion-Backend
 
-Github repo link:-
-
-Deployed Link:-
+Deployed Link:-  https://max-fashion-u3.netlify.app/
 
